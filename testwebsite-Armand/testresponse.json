@@ -1,0 +1,5 @@
+
+
+--New entry 2021-07-06 12:08:29.427137-- 
+
+{'statusCode': 200, 'statusText': 'Ok', 'data': {'testId': '210706_AiDcVF_f8dcb6bd25e18dd6849cbb86ee2c03d4', 'jsonUrl': 'https://www.webpagetest.org/jsonResult.php?test=210706_AiDcVF_f8dcb6bd25e18dd6849cbb86ee2c03d4', 'xmlUrl': 'https://www.webpagetest.org/xmlResult/210706_AiDcVF_f8dcb6bd25e18dd6849cbb86ee2c03d4/', 'userUrl': 'https://www.webpagetest.org/result/210706_AiDcVF_f8dcb6bd25e18dd6849cbb86ee2c03d4/', 'summaryCSV': 'https://www.webpagetest.org/result/210706_AiDcVF_f8dcb6bd25e18dd6849cbb86ee2c03d4/page_data.csv', 'detailCSV': 'https://www.webpagetest.org/result/210706_AiDcVF_f8dcb6bd25e18dd6849cbb86ee2c03d4/requests.csv'}}
