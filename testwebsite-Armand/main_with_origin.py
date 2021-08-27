@@ -22,7 +22,7 @@ with open('url.txt','r') as f:
     for url in f:
         if url != "\n":  # control if the row is not empty from the text file
             url=url.strip("\n")
-            apikey = "c7cb0683-6f4d-4fa2-9b42-f65550a34bac" #the key for making the test from wpt
+            apikey = "our api key" #the key for making the test from wpt
             # specifying all the parameteres of the test and make the request for two different url's(iSF and Origin)
             param="ec2-eu-south-1:Chrome.4G" #Milano
             fvonly="1" # only first view
